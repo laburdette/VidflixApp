@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VidflixApp", "VidflixApp\VidflixApp.vbproj", "{CDF91B86-3BE1-477C-8229-46EE7E5F666D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF91B86-3BE1-477C-8229-46EE7E5F666D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF91B86-3BE1-477C-8229-46EE7E5F666D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF91B86-3BE1-477C-8229-46EE7E5F666D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF91B86-3BE1-477C-8229-46EE7E5F666D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB6C3EC-3940-4B7A-A184-B9E3455F7D26}
+	EndGlobalSection
+EndGlobal
